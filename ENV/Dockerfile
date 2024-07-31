@@ -1,0 +1,5 @@
+FROM almalinux:8
+ENV NAME=Jani \
+    AGE=20
+    ADDRESS=HYD
+    PINCODE=255458
