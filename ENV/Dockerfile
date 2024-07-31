@@ -1,5 +1,5 @@
 FROM almalinux:8
 ENV NAME=Jani \
     AGE=20
-    ADDRESS=HYD
+    ADDR=HYD
     PINCODE=255458
